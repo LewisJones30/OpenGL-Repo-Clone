@@ -1,0 +1,28 @@
+Code credits:
+
+mesh.h, model.h, Shader.h - Code mostly taken from LearnOpenGL. This code has been modified so that I am able to translate and scale objects.
+
+Model credits:
+
+Low poly trees used: https://free3d.com/3d-model/low-poly-tree-73217.html
+Fauna & tree 2: https://www.cgtrader.com/free-3d-models/plant/other/forest-assets-low-poly-including-bonus-animal
+
+Rock obj file used: https://www.cgtrader.com/free-3d-models/plant/other/rock-01-98f8a3df-4cba-4bb7-8452-f1c36bc35fa7
+Different texture used to due to scaling issues with the included texture.
+Rock texture used: https://www.deviantart.com/roskvape/art/Rock-Texture-307459462
+
+
+Audio credits:
+Track 1: Klankbeeld forest summer. URL: https://freesound.org/people/klankbeeld/sounds/530415/
+Track 2: Jayhu forest. URL: https://freesound.org/people/JayHu/sounds/506103/
+Track 3: GirlWithSoundRecorder forest. URL: https://freesound.org/people/GirlWithSoundRecorder/sounds/520605/
+Track 4: Erdie forest04. URL: https://freesound.org/people/Erdie/sounds/34410/
+Track 5: Odilonmarcenaro. URL: https://freesound.org/people/odilonmarcenaro/sounds/235939/
+Links to the specific track's creator pages is in the code under both the RandomMusicChange & ForcedMusicChange methods.
+
+External packages used:
+Audio - Irrklang: https://www.ambiera.com/irrklang/
+ImGui - https://github.com/ocornut/imgui
+Assimp - https://www.assimp.org/
+
+

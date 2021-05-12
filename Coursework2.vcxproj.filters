@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="LoadShaders.cpp" />
+    <ClCompile Include="Project.cpp" />
+    <ClCompile Include="imgui_demo.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_draw.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_impl_glfw.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_impl_opengl3.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_impl_win32.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui_widgets.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui.cpp">
+      <Filter>ImGUI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LoadShaders.h" />
+    <ClInclude Include="stb_image.h" />
+    <ClInclude Include="Project.h" />
+    <ClInclude Include="mesh.h" />
+    <ClInclude Include="Model.h" />
+    <ClInclude Include="Shader.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="media\textures\awesomeface.png" />
+    <Image Include="C:\Users\Lewis\Documents\10450_Rectangular_Grass_Patch_v1_Diffuse.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="media\triangles.frag" />
+    <None Include="media\triangles.vert" />
+    <None Include="packages.config" />
+    <None Include="media\rock.frag" />
+    <None Include="media\rock.vert" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="ImGUI">
+      <UniqueIdentifier>{118e23f6-d2a3-4f82-ac7e-95089d21abe4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
