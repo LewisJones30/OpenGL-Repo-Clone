@@ -1,5 +1,10 @@
 # 2020-COMP3016-Coursework2
 
+# Notice
+
+This repository is a cloned version of the OpenGL project I completed in Jan 2021. Due to the repository I used not being owned by me, I have duplicated the files across to this repository which is visible to the public. All files are the exact same state as in the private repository.
+
+If there are any concerns, please contact me.
 
 # Interactable Forest Scene
 
